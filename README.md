@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Venkata Mukhesh Kumar Konangi - Embedded Software Engineer">
+</p>
 
 # Venkata Mukhesh Kumar Konangi
 
