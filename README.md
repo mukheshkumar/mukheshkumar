@@ -62,3 +62,66 @@ I work across embedded firmware development, real-time systems, communication in
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+## 🚀 Featured Projects
+
+### 🔹 Embedded C & MCU Programming
+> Exploring low-level programming, memory management, bit manipulation, register-level concepts and embedded coding practices.
+
+### 🔹 FreeRTOS & Real-Time Systems
+> Practical exploration of task scheduling, queues, mutexes, semaphores, software timers and task synchronization.
+
+### 🔹 UART Packet Analyzer
+> Python-based serial communication utility for packet parsing, checksum validation, log analysis and communication debugging.
+
+### 🔹 CAN Bus Utilities
+> Tools and experiments for CAN message decoding, signal extraction, frame analysis and communication testing.
+
+### 🔹 Embedded Driver Development
+> Modular driver experiments involving GPIO, UART, SPI, I2C, ADC and PWM peripheral interfaces.
+
+### 🔹 Embedded Linux
+> Learning Linux system programming, command-line tools, GPIO interaction, serial communication and device-driver fundamentals.
+
+---
+
+## 📚 Currently Exploring
+
+- 🐧 **Embedded Linux** — Linux fundamentals, system programming and embedded environments
+- 🔩 **Linux Device Drivers** — driver architecture, kernel modules and hardware interfacing fundamentals
+- ⚙️ **RTOS Internals** — task scheduling, synchronization, memory and real-time behaviour
+- 🔌 **MCU Peripheral Drivers** — low-level interfacing and driver design
+- 🧪 **Embedded Software Testing** — test automation, validation and systematic debugging
+- 🔍 **System-Level Debugging** — hardware–software interaction, trace analysis and root-cause investigation
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mukheshkumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukheshkumar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukheshkumar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/venkatamukheshkumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mukheshkumar">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building. Integrating. Debugging. Learning.</i>
+</p>
+
+---
