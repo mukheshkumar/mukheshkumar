@@ -15,9 +15,3 @@ I work across embedded firmware development, real-time systems, communication in
 - 🔌 Communication protocols & peripheral interfaces
 - 🐛 System debugging & root-cause analysis
 - 🐧 Exploring Embedded Linux & device drivers
-
-## Connect With Me
-
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/venkatamukheshkumar)
-
----
